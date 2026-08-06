@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bashirawaty
-- 👀 I’m interested in Web Development and CI/CD
-- 🌱 I’m currently learning Front-end Web development
+- 👋 Hi, I’m Bashir Awaty
+- 👀 I’m interested in Programming languages, Development, Linux, Cloud, and DevOps
+- 🌱 I’m currently Working as IT Support
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me Linkedin:<https://www.linkedin.com/in/bashirawaty
 
